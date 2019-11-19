@@ -1,0 +1,9 @@
+
+files : 3, LPS.h, LPS.cpp and main.cpp
+
+The main purpose if finding the longest palindrome in a string
+LPS.h contains functions to preprocess the given string then process it to find
+the longest palindrome
+the function LPS() gives directly the longest palindrome and its defined in
+LPS.cpp
+Finally run and example in main.cpp
